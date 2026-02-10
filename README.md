@@ -40,9 +40,3 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 * **NahamCon 2025 Write-ups:** Documentação técnica dos desafios superados no CTF.
 * **IAM & Automation:** Scripts para gestão de acessos e conformidade em ambientes ERP.
 * **Network Analysis:** Laboratórios focados em análise de protocolos e segurança de redes.
-
----
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Martins-Dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Martins-Dev&layout=compact&theme=dark)
