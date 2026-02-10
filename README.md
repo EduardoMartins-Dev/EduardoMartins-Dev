@@ -10,7 +10,6 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 ### ⚡ Perfil Ofensivo
 - **CTF Player:** Top 25% no **NahamCon 2025** (300 pontos e 204/855 equipes).
-- **Especialista Metasploit:** Certificado como **Metasploit Framework Expert** pelo instrutor Daniel Donda.
 - **Exploit Dev:** Utilizando **C** e **Python** para entender e automatizar vetores de ataque.
 - **Infraestrutura:** Sólidos conhecimentos em **Linux Hardening**, redes e firewalls.
 
