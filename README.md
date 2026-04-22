@@ -5,7 +5,7 @@
 </div>
 
 # 🛡️ Eduardo Martins Barbosa
-### Red Team Enthusiast | Computer Science Student | Aspiring Penetration Tester
+### Red Team | Computer Science Student | Penetration Tester | Software Engineer
 
 Atualmente cursando **Ciência da Computação** e em transição para a área de segurança ofensiva. Possuo experiência prática em **Gestão de Identidades (IAM)**, **Resposta a Incidentes** e manutenção de **Bancos de Dados**. Meu foco está no desenvolvimento de ferramentas e exploração de vulnerabilidades.
 
