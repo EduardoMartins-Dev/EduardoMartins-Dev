@@ -23,12 +23,23 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 ---
 
+### 🔵 Perfil Defensivo
+
+- **IAM & Controle de Acessos:** Gestão de identidades, provisionamento e conformidade de acessos em ambientes ERP corporativos.
+- **Resposta a Incidentes:** Triagem, contenção e documentação de incidentes de segurança seguindo frameworks de referência (NIST IR).
+- **SOC & Monitoramento:** Análise de logs, correlação de eventos e investigação de alertas em contexto de Security Operations Center.
+- **Hardening:** Configuração segura de servidores Linux e Windows Server, políticas de firewall e segmentação de rede.
+- **Análise de Tráfego:** Inspeção de pacotes com Wireshark e desenvolvimento do [Network Traffic Analyzer](https://github.com/EduardoMartins-Dev/Network-Traffic-Analyzer) — ferramenta open-source com arquitetura distribuída de agentes, dashboard e detecção de anomalias.
+
+---
+
 ### 🛠️ Tech Stack & Linguagens
 
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
 | **Offensive Tools** | ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![SQLMap](https://img.shields.io/badge/-SQLMap-CC0000?logoColor=white) |
+| **Defensive Tools** | ![Wazuh](https://img.shields.io/badge/-Wazuh-3C99DC?logo=wazuh&logoColor=white) ![Suricata](https://img.shields.io/badge/-Suricata-EF3340?logoColor=white) ![Syslog](https://img.shields.io/badge/-Syslog/SIEM-333333?logoColor=white) ![pfSense](https://img.shields.io/badge/-pfSense-212121?logo=pfsense&logoColor=white) |
 | **Infra & Cloud** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white) |
 | **Bancos de Dados** | ![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
 
@@ -58,7 +69,7 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 - **NahamCon 2025 Write-ups:** Documentação técnica dos desafios superados no CTF.
 - **IAM & Automation:** Scripts para gestão de acessos e conformidade em ambientes ERP.
-- **Network Analysis:** Laboratórios focados em análise de protocolos e segurança de redes.
+- **Network Traffic Analyzer:** Ferramenta open-source com arquitetura distribuída (agentes C + servidor Docker Compose), dashboard dark-theme e detecção de anomalias (Port Scan, ICMP Flood, baseline EWMA).
 
 ---
 
