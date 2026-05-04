@@ -66,8 +66,6 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 <div align="center">
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EduardoMartins-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500&icon_color=FF4500&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartins-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=EduardoMartins-Dev&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500)
