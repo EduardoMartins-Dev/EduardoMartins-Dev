@@ -5,7 +5,7 @@
 </div>
 
 # 🏗️ Eduardo Martins Barbosa
-### Infrastructure Specialist | Cloud & DevOps | IAM & Network Operations
+### Infrastructure | Cloud & DevOps | IAM & Network Operations
 
 Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuvem e operações. Possuo experiência prática em **Gestão de Identidades (IAM)**, **Monitoramento & Observabilidade**, **Cloud Híbrido** e **Infraestrutura de Rede**. Meu foco está na automação, escalabilidade e confiabilidade de sistemas.
 
