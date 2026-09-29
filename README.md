@@ -1,75 +1,75 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=FF4500&center=true&vCenter=true&width=650&lines=Eduardo+Martins+Barbosa;Red+Team+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;CTF+Player+%7C+Aspiring+Penetration+Tester;Breaking+Things+to+Build+Better+Ones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Eduardo+Martins+Barbosa;Infrastructure+Specialist;Cloud+%7C+Network+%7C+IAM+%7C+DevOps;Building+Reliable+Systems)](https://git.io/typing-svg)
 
 </div>
 
-# 🛡️ Eduardo Martins Barbosa
-### Red Team | Computer Science Student | Penetration Tester | Software Engineer
+# 🏗️ Eduardo Martins Barbosa
+### Infrastructure Specialist | Cloud & DevOps | IAM & Network Operations
 
-Atualmente cursando **Ciência da Computação** e em transição para a área de segurança ofensiva. Possuo experiência prática em **Gestão de Identidades (IAM)**, **Resposta a Incidentes** e manutenção de **Bancos de Dados**. Meu foco está no desenvolvimento de ferramentas e exploração de vulnerabilidades.
+Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuvem e operações. Possuo experiência prática em **Gestão de Identidades (IAM)**, **Monitoramento & Observabilidade**, **Cloud Híbrido** e **Infraestrutura de Rede**. Meu foco está na automação, escalabilidade e confiabilidade de sistemas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-martins3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoMartins-Dev)
-[![Location](https://img.shields.io/badge/São_Paulo,_BR-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/São_Paulo,_BR-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 ---
 
-### ⚡ Perfil Ofensivo
+### 🏗️ Infraestrutura & Operações
 
-- **CTF Player:** Top 25% no **NahamCon 2025** (300 pontos e 204/855 equipes).
-- **Exploit Dev:** Utilizando **C** e **Python** para entender e automatizar vetores de ataque.
-- **Infraestrutura:** Sólidos conhecimentos em **Linux Hardening**, redes e firewalls.
-
----
-
-### 🔵 Perfil Defensivo
-
-- **IAM & Controle de Acessos:** Gestão de identidades, provisionamento e conformidade de acessos em ambientes ERP corporativos.
-- **Resposta a Incidentes:** Triagem, contenção e documentação de incidentes de segurança seguindo frameworks de referência (NIST IR).
-- **SOC & Monitoramento:** Análise de logs, correlação de eventos e investigação de alertas em contexto de Security Operations Center.
-- **Hardening:** Configuração segura de servidores Linux e Windows Server, políticas de firewall e segmentação de rede.
-- **Análise de Tráfego:** Inspeção de pacotes com Wireshark e desenvolvimento do [Network Traffic Analyzer](https://github.com/EduardoMartins-Dev/Network-Traffic-Analyzer) — ferramenta open-source com arquitetura distribuída de agentes, dashboard e detecção de anomalias.
+- **Cloud Híbrido:** Experiência em ambientes **Azure**, provisionamento de recursos, gestão de acessos baseada em papéis (RBAC) e conformidade de identidades em nuvem.
+- **IAM & Segurança de Acesso:** Gestão de identidades, provisionamento, auditoria de acessos e políticas de conformidade em ambientes corporativos ERP.
+- **Monitoramento & Observabilidade:** Dashboards em **Grafana**, coleta e análise de métricas com **InfluxDB**, alertas e séries temporais para infraestrutura crítica.
+- **Network & Infraestrutura:** Configuração de firewalls, segmentação de rede, hardening de **Linux** e **Windows Server**, análise de tráfego com **Wireshark** e reconhecimento com **Nmap**.
+- **DevOps & Automação:** **Docker**, **Azure DevOps**, scripts **PowerShell** e **Bash** para provisionamento, CI/CD e automação de processos.
+- **Resposta a Incidentes:** Triagem, investigação, RCA (Root Cause Analysis) e documentação de incidentes em contexto de infraestrutura.
 
 ---
 
-### 🛠️ Tech Stack & Linguagens
+### 🛠️ Tech Stack & Competências
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) |
-| **Offensive Tools** | ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logoColor=white) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?logo=burpsuite&logoColor=white) ![SQLMap](https://img.shields.io/badge/-SQLMap-CC0000?logoColor=white) |
-| **Defensive Tools** | ![Wazuh](https://img.shields.io/badge/-Wazuh-3C99DC?logo=wazuh&logoColor=white) ![Suricata](https://img.shields.io/badge/-Suricata-EF3340?logoColor=white) ![Syslog](https://img.shields.io/badge/-Syslog/SIEM-333333?logoColor=white)
-| **Infra & Cloud** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white) |
-| **Bancos de Dados** | ![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| **Cloud & Infraestrutura** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white) |
+| **Observabilidade** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
+| **DevOps & CI/CD** | ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
+| **Automação & Scripting** | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Network & Segurança** | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logoColor=white) |
+| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
 
 ---
 
-### 🏆 CTF & Conquistas
+### 💼 Experiência
 
-| Competição | Resultado | Ano |
-| :--- | :--- | :--- |
-| 🏴 **NahamCon CTF** | Top 25% · 300 pts · #204 / 855 equipes | 2025 |
+**Estagiário — Suporte e Implantação**  
+Fagron Technologies | Jundiaí, SP | Set 2025 — Presente
 
-> 💡 *Treinando continuamente em plataformas como Hack The Box e TryHackMe*
+Gestão de identidades em ambientes ERP, incident response via Azure DevOps (triagem, RCA e documentação), automação de provisionamento e auditoria de ambiente. Manutenção de bancos de dados Firebird e scripts de validação de infraestrutura.
+
+**Aprendiz — Qualidade**  
+Plascar | Jundiaí, SP | Dez 2024 — Ago 2025
+
+Auditoria de conformidade, análise de qualidade e desenvolvimento de dashboards em Excel para monitoramento de KPIs.
 
 ---
 
-### 📜 Certificações Relevantes
+### 📁 Projetos & Portfolio
 
-- **Metasploit Framework Expert** – Hackers Hive
-- **Junior Cybersecurity Analyst Career Path** – Cisco Networking Academy
+- **Network Traffic Analyzer:** Ferramenta open-source de **monitoramento de tráfego** com arquitetura distribuída. Agentes em C11 com captura em modo promíscuo, servidor centralizado, dashboard **Grafana**, coleta de métricas via **RabbitMQ** e **InfluxDB**. Processa 350k+ pacotes/segundo com detecção de anomalias em tempo real.
+
+- **Ambiente Check:** Script **PowerShell** para auditoria e validação automática de ambiente em deploys ERP. Verifica SO, CPU, RAM, disco, dependências (.NET, Firebird), conectividade e latência. Gera relatório pronto para tickets de infraestrutura.
+
+---
+
+### 📜 Certificações & Formação
+
 - **Analista SOC (Security Operations Center)** – IBSEC
 - **Segurança em Linux** – IBSEC
-- **Fundamentos em Cibersegurança** – IBSEC
-
----
-
-### 📁 Projetos & Laboratórios
-
-- **NahamCon 2025 Write-ups:** Documentação técnica dos desafios superados no CTF.
-- **IAM & Automation:** Scripts para gestão de acessos e conformidade em ambientes ERP.
-- **Network Traffic Analyzer:** Ferramenta open-source com arquitetura distribuída (agentes C + servidor Docker Compose), dashboard dark-theme e detecção de anomalias (Port Scan, ICMP Flood, baseline EWMA).
+- **Junior Cybersecurity Analyst Career Path** – Cisco Networking Academy
+- **Metasploit Framework Expert** – Hackers Hive
+- **Fundamentos em Cibersegurança & Redes** – IBSEC
+- **Google Cybersecurity Foundations** – Google
 
 ---
 
@@ -77,9 +77,9 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartins-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF4500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartins-Dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0078D4)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=EduardoMartins-Dev&theme=radical&hide_border=true&background=0d1117&ring=FF4500&fire=FF4500&currStreakLabel=FF4500)
+![GitHub Streak](https://streak-stats.demolab.com/?user=EduardoMartins-Dev&theme=dark&hide_border=true&background=0d1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4)
 
 </div>
 
@@ -89,6 +89,6 @@ Atualmente cursando **Ciência da Computação** e em transição para a área d
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EduardoMartins-Dev.EduardoMartins-Dev)
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux
+*"The quieter you become, the more you are able to hear."*
 
 </div>
