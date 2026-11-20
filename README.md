@@ -41,6 +41,8 @@ Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuv
 ---
 
 ### 💼 Experiência
+**Estagiário — Infraestrutura**  
+SEG Automotive | Itupeva, SP | Aug 2026 — Presente
 
 **Estagiário — Suporte e Implantação**  
 Fagron Technologies | Jundiaí, SP | Set 2025 — Presente
