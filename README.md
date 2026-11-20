@@ -45,7 +45,7 @@ Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuv
 SEG Automotive | Itupeva, SP | Aug 2026 — Presente
 
 **Estagiário — Suporte e Implantação**  
-Fagron Technologies | Jundiaí, SP | Set 2025 — Presente
+Fagron Technologies | Jundiaí, SP | Set 2025 — Julho - 2026
 
 Gestão de identidades em ambientes ERP, incident response via Azure DevOps (triagem, RCA e documentação), automação de provisionamento e auditoria de ambiente. Manutenção de bancos de dados Firebird e scripts de validação de infraestrutura.
 
