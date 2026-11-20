@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono+Bold&weight=1000&size=28&pause=1000&color=1D52F7&background=FF2B8900&random=true&width=435&lines=Cybersecurity+%7C+Infrastructure;IT+Intern)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0078D4&center=true&vCenter=true&width=650&lines=Eduardo+Martins+Barbosa;Infrastructure+Specialist;Cloud+%7C+Network+%7C+IAM+%7C+DevOps;Building+Reliable+Systems)](https://git.io/typing-svg)
 
 </div>
 
