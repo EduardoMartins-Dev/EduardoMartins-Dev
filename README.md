@@ -43,7 +43,18 @@ Estudante de **Ciência da Computação** com foco em infraestrutura de TI e seg
 **Estagiário — Infraestrutura**  
 SEG Automotive | Itupeva, SP | Ago 2026 — Presente
 
-Provisionamento de estações via PXE, conformidade no Intune e inventário no Matrix42; suporte técnico, acessos no Active Directory e gestão de chamados; monitoramento com Zabbix e Grafana, painel de SOC com Microsoft Sentinel, mapeamento de ativos OT em auditoria de segurança da informação e treinamentos de segurança no onboarding.
+- Workstation provisioning via PXE: reimaging with the corporate standard image, initial user account setup, domain join check and Intune validation.
+- Asset inventory and compliance control in Matrix42 and Intune, ensuring machines follow company policies.
+- On-site user support: software issues, Wi-Fi/network and hardware troubleshooting, and vendor tickets for hardware faults.
+- Ticket management in Matrix42.
+- Lexmark printer maintenance: toner and waste bottle replacement and error handling.
+- Active Directory: granting access to shared network folders (S: drive).
+- Monitoring with Zabbix and Grafana: agent installation and Zabbix data source integration into Grafana.
+- Python collector that reads SNMP metrics from Lexmark printers (offline status, page counts, alerts) and shows them in a Grafana dashboard.
+- SOC dashboard in Grafana with event log queries on Microsoft Sentinel.
+- Information security audit: lead the mapping of production-line OT assets and connected network devices (zones, conduits and owners), now nearing completion.
+- VLAN requests and coordination between the local site and the global network and security teams.
+- Information security training for new employees at onboarding (1-2 times a month): best practices and safe use of AI (Shadow AI).
 
 **Estagiário — Suporte e Implantação**  
 Fagron Technologies | Jundiaí, SP | Set 2025 — Jul 2026
