@@ -43,28 +43,16 @@ Computer Science student focused on IT infrastructure and information security. 
 **Infrastructure Intern**
 SEG Automotive | Itupeva, SP | Aug 2026 — Present
 
-- Workstation provisioning via PXE: reimaging with the corporate standard image, initial user account setup, domain join check and Intune validation.
-- Asset inventory and compliance control in Matrix42 and Intune, ensuring machines follow company policies.
-- On-site user support: software issues, Wi-Fi/network and hardware troubleshooting, and vendor tickets for hardware faults.
-- Ticket management in Matrix42.
-- Lexmark printer maintenance: toner and waste bottle replacement and error handling.
-- Active Directory: granting access to shared network folders (S: drive).
-- Monitoring with Zabbix and Grafana: agent installation and Zabbix data source integration into Grafana.
-- Python collector that reads SNMP metrics from Lexmark printers (offline status, page counts, alerts) and shows them in a Grafana dashboard.
-- SOC dashboard in Grafana with event log queries on Microsoft Sentinel.
-- Information security audit: lead the mapping of production-line OT assets and connected network devices (zones, conduits and owners), now nearing completion.
-- VLAN requests and coordination between the local site and the global network and security teams.
-- Information security training for new employees at onboarding (1-2 times a month): best practices and safe use of AI (Shadow AI).
+- Workstation provisioning via PXE, with asset inventory and compliance control in Matrix42 and Intune.
+- On-site user support, ticket management in Matrix42 and access management in Active Directory.
+- Monitoring with Zabbix and Grafana, including a Python SNMP collector for Lexmark printers and a SOC dashboard on Microsoft Sentinel.
+- Information security audit: mapping of production-line OT assets and network devices; VLAN requests with the global network and security teams.
+- Information security training for new employees at onboarding (best practices and safe use of AI).
 
 **Support & Deployment Intern**
 Fagron Technologies | Jundiaí, SP | Sep 2025 — Jul 2026
 
 Identity management in ERP environments, incident response via Azure DevOps (triage, RCA and documentation), provisioning automation and environment auditing. Firebird database maintenance and infrastructure validation scripts.
-
-**Quality Apprentice**
-Plascar | Jundiaí, SP | Dec 2024 — Aug 2025
-
-Compliance auditing, quality analysis and development of Excel dashboards for KPI monitoring.
 
 ---
 
@@ -79,7 +67,6 @@ Compliance auditing, quality analysis and development of Excel dashboards for KP
 ### 📜 Certifications & Education
 
 - **LFC108: Cybersecurity Essentials** – The Linux Foundation
-- **SOC Analyst (Security Operations Center)** – IBSEC
 - **Linux Security** – IBSEC
 - **Junior Cybersecurity Analyst Career Path** – Cisco Networking Academy
 - **Networking Devices and Initial Configuration** – Cisco
