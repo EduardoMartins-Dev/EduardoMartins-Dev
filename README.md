@@ -7,7 +7,7 @@
 # 🏗️ Eduardo Martins Barbosa
 ### Infrastructure | Cybersecurity | IAM & Network Operations
 
-Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuvem e operações. Possuo experiência prática em **Gestão de Identidades (IAM)**, **Monitoramento & Observabilidade**, **Cloud Híbrido** e **Infraestrutura de Rede**. Meu foco está na automação, escalabilidade e confiabilidade de sistemas.
+Estudante de **Ciência da Computação** com foco em infraestrutura de TI e segurança da informação. Estagiário de Infraestrutura na SEG Automotive, com experiência prática em **provisionamento e conformidade de estações**, **Gestão de Identidades (IAM)**, **Monitoramento & Observabilidade** e **Infraestrutura de Rede**. Meu foco está na automação, confiabilidade e segurança de ambientes corporativos.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-martins3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoMartins-Dev)
@@ -17,7 +17,6 @@ Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuv
 
 ### 🏗️ Infraestrutura & Operações
 
-- **Cloud Híbrido:** Experiência em ambientes **Azure**, provisionamento de recursos, gestão de acessos baseada em papéis (RBAC) e conformidade de identidades em nuvem.
 - **IAM & Segurança de Acesso:** Gestão de identidades, provisionamento, auditoria de acessos e políticas de conformidade em ambientes corporativos ERP.
 - **Monitoramento & Observabilidade:** Dashboards em **Grafana**, coleta e análise de métricas com **InfluxDB**, alertas e séries temporais para infraestrutura crítica.
 - **Network & Infraestrutura:** Configuração de firewalls, segmentação de rede, hardening de **Linux** e **Windows Server**, análise de tráfego com **Wireshark** e reconhecimento com **Nmap**.
@@ -42,10 +41,12 @@ Atualmente cursando **Ciência da Computação** com foco em infraestrutura, nuv
 
 ### 💼 Experiência
 **Estagiário — Infraestrutura**  
-SEG Automotive | Itupeva, SP | Aug 2026 — Presente
+SEG Automotive | Itupeva, SP | Ago 2026 — Presente
+
+Provisionamento de estações via PXE, conformidade no Intune e inventário no Matrix42; suporte técnico, acessos no Active Directory e gestão de chamados; monitoramento com Zabbix e Grafana, painel de SOC com Microsoft Sentinel, mapeamento de ativos OT em auditoria de segurança da informação e treinamentos de segurança no onboarding.
 
 **Estagiário — Suporte e Implantação**  
-Fagron Technologies | Jundiaí, SP | Set 2025 — Julho - 2026
+Fagron Technologies | Jundiaí, SP | Set 2025 — Jul 2026
 
 Gestão de identidades em ambientes ERP, incident response via Azure DevOps (triagem, RCA e documentação), automação de provisionamento e auditoria de ambiente. Manutenção de bancos de dados Firebird e scripts de validação de infraestrutura.
 
@@ -66,9 +67,11 @@ Auditoria de conformidade, análise de qualidade e desenvolvimento de dashboards
 
 ### 📜 Certificações & Formação
 
+- **LFC108: Cybersecurity Essentials** – The Linux Foundation
 - **Analista SOC (Security Operations Center)** – IBSEC
 - **Segurança em Linux** – IBSEC
 - **Junior Cybersecurity Analyst Career Path** – Cisco Networking Academy
+- **Networking Devices and Initial Configuration** – Cisco
 - **Metasploit Framework Expert** – Hackers Hive
 - **Fundamentos em Cibersegurança & Redes** – IBSEC
 - **Google Cybersecurity Foundations** – Google
