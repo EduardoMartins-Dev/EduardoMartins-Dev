@@ -7,7 +7,7 @@
 # 🏗️ Eduardo Martins Barbosa
 ### Infrastructure | Cybersecurity | IAM & Network Operations
 
-Estudante de **Ciência da Computação** com foco em infraestrutura de TI e segurança da informação. Estagiário de Infraestrutura na SEG Automotive, com experiência prática em **provisionamento e conformidade de estações**, **Gestão de Identidades (IAM)**, **Monitoramento & Observabilidade** e **Infraestrutura de Rede**. Meu foco está na automação, confiabilidade e segurança de ambientes corporativos.
+Computer Science student focused on IT infrastructure and information security. Infrastructure Intern at SEG Automotive, with hands-on experience in **workstation provisioning and compliance**, **Identity Management (IAM)**, **Monitoring & Observability** and **Network Infrastructure**. My focus is on automation, reliability and security of corporate environments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eduardo-martins3/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EduardoMartins-Dev)
@@ -15,33 +15,33 @@ Estudante de **Ciência da Computação** com foco em infraestrutura de TI e seg
 
 ---
 
-### 🏗️ Infraestrutura & Operações
+### 🏗️ Infrastructure & Operations
 
-- **IAM & Segurança de Acesso:** Gestão de identidades, provisionamento, auditoria de acessos e políticas de conformidade em ambientes corporativos ERP.
-- **Monitoramento & Observabilidade:** Dashboards em **Grafana**, coleta e análise de métricas com **InfluxDB**, alertas e séries temporais para infraestrutura crítica.
-- **Network & Infraestrutura:** Configuração de firewalls, segmentação de rede, hardening de **Linux** e **Windows Server**, análise de tráfego com **Wireshark** e reconhecimento com **Nmap**.
-- **DevOps & Automação:** **Docker**, **Azure DevOps**, scripts **PowerShell** e **Bash** para provisionamento, CI/CD e automação de processos.
-- **Resposta a Incidentes:** Triagem, investigação, RCA (Root Cause Analysis) e documentação de incidentes em contexto de infraestrutura.
+- **IAM & Access Security:** Identity management, provisioning, access auditing and compliance policies in corporate ERP environments.
+- **Monitoring & Observability:** **Grafana** dashboards, metrics collection and analysis with **InfluxDB**, alerts and time series for critical infrastructure.
+- **Network & Infrastructure:** Firewall configuration, network segmentation, **Linux** and **Windows Server** hardening, traffic analysis with **Wireshark** and reconnaissance with **Nmap**.
+- **DevOps & Automation:** **Docker**, **Azure DevOps**, **PowerShell** and **Bash** scripts for provisioning, CI/CD and process automation.
+- **Incident Response:** Triage, investigation, RCA (Root Cause Analysis) and incident documentation in an infrastructure context.
 
 ---
 
-### 🛠️ Tech Stack & Competências
+### 🛠️ Tech Stack & Skills
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Cloud & Infraestrutura** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white) |
-| **Observabilidade** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
+| **Cloud & Infrastructure** | ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?logo=windows&logoColor=white) |
+| **Observability** | ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) ![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white) ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) |
 | **DevOps & CI/CD** | ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D4?logo=azure-devops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) |
-| **Automação & Scripting** | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
-| **Network & Segurança** | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logoColor=white) |
-| **Bancos de Dados** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
-| **Linguagens** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
+| **Automation & Scripting** | ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **Network & Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![Firebird](https://img.shields.io/badge/-Firebird-FF4500?logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
 
 ---
 
-### 💼 Experiência
-**Estagiário — Infraestrutura**  
-SEG Automotive | Itupeva, SP | Ago 2026 — Presente
+### 💼 Experience
+**Infrastructure Intern**
+SEG Automotive | Itupeva, SP | Aug 2026 — Present
 
 - Workstation provisioning via PXE: reimaging with the corporate standard image, initial user account setup, domain join check and Intune validation.
 - Asset inventory and compliance control in Matrix42 and Intune, ensuring machines follow company policies.
@@ -56,35 +56,35 @@ SEG Automotive | Itupeva, SP | Ago 2026 — Presente
 - VLAN requests and coordination between the local site and the global network and security teams.
 - Information security training for new employees at onboarding (1-2 times a month): best practices and safe use of AI (Shadow AI).
 
-**Estagiário — Suporte e Implantação**  
-Fagron Technologies | Jundiaí, SP | Set 2025 — Jul 2026
+**Support & Deployment Intern**
+Fagron Technologies | Jundiaí, SP | Sep 2025 — Jul 2026
 
-Gestão de identidades em ambientes ERP, incident response via Azure DevOps (triagem, RCA e documentação), automação de provisionamento e auditoria de ambiente. Manutenção de bancos de dados Firebird e scripts de validação de infraestrutura.
+Identity management in ERP environments, incident response via Azure DevOps (triage, RCA and documentation), provisioning automation and environment auditing. Firebird database maintenance and infrastructure validation scripts.
 
-**Aprendiz — Qualidade**  
-Plascar | Jundiaí, SP | Dez 2024 — Ago 2025
+**Quality Apprentice**
+Plascar | Jundiaí, SP | Dec 2024 — Aug 2025
 
-Auditoria de conformidade, análise de qualidade e desenvolvimento de dashboards em Excel para monitoramento de KPIs.
-
----
-
-### 📁 Projetos & Portfolio
-
-- **Network Traffic Analyzer:** Ferramenta open-source de **monitoramento de tráfego** com arquitetura distribuída. Agentes em C11 com captura em modo promíscuo, servidor centralizado, dashboard **Grafana**, coleta de métricas via **RabbitMQ** e **InfluxDB**. Processa 350k+ pacotes/segundo com detecção de anomalias em tempo real.
-
-- **Ambiente Check:** Script **PowerShell** para auditoria e validação automática de ambiente em deploys ERP. Verifica SO, CPU, RAM, disco, dependências (.NET, Firebird), conectividade e latência. Gera relatório pronto para tickets de infraestrutura.
+Compliance auditing, quality analysis and development of Excel dashboards for KPI monitoring.
 
 ---
 
-### 📜 Certificações & Formação
+### 📁 Projects & Portfolio
+
+- **Network Traffic Analyzer:** Open-source **traffic monitoring** tool with a distributed architecture. C11 agents with promiscuous-mode capture, central server, **Grafana** dashboard, metrics collection via **RabbitMQ** and **InfluxDB**. Processes 350k+ packets/second with real-time anomaly detection.
+
+- **Ambiente Check:** **PowerShell** script for automatic environment auditing and validation in ERP deployments. Checks OS, CPU, RAM, disk, dependencies (.NET, Firebird), connectivity and latency. Generates a report ready for infrastructure tickets.
+
+---
+
+### 📜 Certifications & Education
 
 - **LFC108: Cybersecurity Essentials** – The Linux Foundation
-- **Analista SOC (Security Operations Center)** – IBSEC
-- **Segurança em Linux** – IBSEC
+- **SOC Analyst (Security Operations Center)** – IBSEC
+- **Linux Security** – IBSEC
 - **Junior Cybersecurity Analyst Career Path** – Cisco Networking Academy
 - **Networking Devices and Initial Configuration** – Cisco
 - **Metasploit Framework Expert** – Hackers Hive
-- **Fundamentos em Cibersegurança & Redes** – IBSEC
+- **Cybersecurity & Networking Fundamentals** – IBSEC
 - **Google Cybersecurity Foundations** – Google
 
 ---
